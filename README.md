@@ -1,5 +1,9 @@
 ### Hi there 👋
+### My name is Alexey Pavlov.
 
+I'm JavaScript developer 💻
+
+### Skills
 <!--
 **Zlus95/Zlus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
