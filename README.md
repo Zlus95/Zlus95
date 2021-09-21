@@ -1,5 +1,5 @@
 
-I'm Frontend developer 💻
+I'm Fullstack Developer 💻
 
 ### Skills
 <ul>
