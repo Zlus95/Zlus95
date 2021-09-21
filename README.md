@@ -4,14 +4,23 @@
 I'm JavaScript developer 💻
 
 ### Skills
+<ul>
+  <li>JavaScript 💼</li>
+  <li>HTML,CSS 🎨 </li>
+  <li>Node.js 💽</li>
+  <li>Express 🔙 </li>
+  <li>MongoDB 📂 </li>
+  <li>React 📦</li>
+  <li>Redux 📝</li>
+  
+</ul>
 
-JavaScript 💼
-HTML,CSS 🎨 
-Node.js 💽
-Express 🔙 
-MongoDB 📂 
-React 📦
-Redux 📝
+
+
+
+
+
+
 
 ### I’m currently learning:
 💣💥 TypeScript (the first experience with TS was in project https://github.com/komisdaria/minzdrav-portal-sochi This one was completed in 10 days by 4 authors)
