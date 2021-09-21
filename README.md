@@ -1,7 +1,5 @@
-### Hello everybody 👋
-### My name is Alexey Pavlov 👦
 
-I'm JavaScript developer 💻
+I'm Frontend developer 💻
 
 ### Skills
 <ul>
@@ -11,8 +9,7 @@ I'm JavaScript developer 💻
   <li>Express 🔙 </li>
   <li>MongoDB 📂 </li>
   <li>React 📦</li>
-  <li>Redux 📝</li>
-  
+  <li>Redux 📝</li> 
 </ul>
 
 
@@ -22,8 +19,6 @@ I'm JavaScript developer 💻
 ### Language:
 🇬🇧 English-Intermediate
 
-### Sport:
-Free time I go in for sports - I go to the gym 🏋️‍♀️ several times a week, or I run 2-3 km at the stadium 🏃.
 
 ### Contacts:
 <ul>
