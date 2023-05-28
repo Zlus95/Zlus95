@@ -8,12 +8,9 @@ I'm Fullstack Developer 💻
   <li>Node.js 💽</li>
   <li>Express 🔙 </li>
   <li>MongoDB 📂 </li>
-  <li>React 📦</li>
+  <li>React/React Native 📦</li>
   <li>Redux 📝</li> 
 </ul>
 
-
-### Language:
-🇬🇧 English-Intermediate
 
 
