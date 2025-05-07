@@ -28,7 +28,7 @@
 - **Node.js** 💽
 - **Express** 🔙
 - **Go (Golang)** 🐹
-- **REST API** / **GraphQL** 🔗
+- **REST API**
 
 ### Databases
 - **MongoDB** 📂
@@ -39,7 +39,6 @@
 - **Git** / **GitHub** 🗂
 - **Docker** 🐳
 - **Webpack** / **Vite** ⚙️
-- **CI/CD** (GitHub Actions, Jenkins) 🚀
 - **And much more...** (always learning new things!)
 
 
