@@ -25,10 +25,10 @@
 - **Tailwind CSS** / **Styled Components** 🎨
 
 ### Backend
-- **Node.js** 💽
-- **Express** 🔙
+- **Node.js** 🟢
+- **Express** 🚀
 - **Go (Golang)** 🐹
-- **REST API** 🔗
+- **REST API** 🔌
 
 ### Databases
 - **MongoDB** 📂
