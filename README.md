@@ -18,11 +18,11 @@
 ## 🛠 Skills
 
 ### Frontend
-- **JavaScript** / **TypeScript** 💼
-- **React** / **React Native** 📦
-- **Redux** / **React Query** 📝
-- **HTML5** / **CSS3** 🎨
-- **Tailwind CSS** / **Styled Components** ✨
+- **JavaScript** / **TypeScript** 🌐
+- **React** / **React Native** ⚛️
+- **Redux** / **React Query** 🔄
+- **HTML5** / **CSS3** 🖌️
+- **Tailwind CSS** / **Styled Components** 🎨
 
 ### Backend
 - **Node.js** 💽
